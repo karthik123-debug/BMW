@@ -1,0 +1,12 @@
+# Node modules
+/vahan_bazar_backend/node_modules
+/vahan_bazar_full/node_modules
+
+# Log files
+npm-debug.log*
+*.log
+
+# Build files
+/vahan_bazar_full/dist
+.env
+.DS_Store
